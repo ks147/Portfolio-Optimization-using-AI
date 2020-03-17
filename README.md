@@ -12,7 +12,7 @@ Indian Institute of Technology, Guwahati
 ```
 
 ### WORKFLOW
-![Image of Yaktocat](https://github.com/ks147/Portfolio-Optimization-using-AI/Workflow.png)
+!(https://github.com/ks147/Portfolio-Optimization-using-AI/blob/master/Workflow.png)
 
 
 ## Text Classifier
