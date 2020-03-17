@@ -1,0 +1,17 @@
+{
+  "exclusive_classes":false,
+  "architecture":"simple_cnn",
+  "labels":[
+    "military",
+    "alcohol",
+    "tobacco",
+    "gambling",
+    "fossil fuels",
+    "information technology",
+    "health Care",
+    "government",
+    "consumer staples",
+    "real estate"
+  ],
+  "pretrained_vectors":null
+}
