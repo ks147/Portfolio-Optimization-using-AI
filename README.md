@@ -12,7 +12,7 @@ Indian Institute of Technology, Guwahati
 ```
 
 ### WORKFLOW
-!(https://github.com/ks147/Portfolio-Optimization-using-AI/blob/master/Workflow.png)
+![workflow diagram](https://github.com/ks147/Portfolio-Optimization-using-AI/blob/master/Workflow.png)
 
 
 ## Text Classifier
